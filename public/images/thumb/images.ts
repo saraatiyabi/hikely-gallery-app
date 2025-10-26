@@ -10,7 +10,7 @@ export const hikingImages: HikingImage[] = [
     date: "May 2024",
     tags: ["waterfall", "sunrise", "national-park"],
     thumb: "/images/thumb/adventure.webp",
-    full: "/images/full/gal-1.jpg",
+    full: "/images/thumb/adventure.webp",
   },
   {
     id: "2",
@@ -20,7 +20,7 @@ export const hikingImages: HikingImage[] = [
     date: "March 2024",
     tags: ["mountain", "patagonia", "storm"],
     thumb: "/images/thumb/hike.jpg",
-    full: "/images/full/gal-2.jpg",
+    full: "/images/thumb/hike.jpg",
   },
   {
     id: "3",
@@ -30,7 +30,7 @@ export const hikingImages: HikingImage[] = [
     date: "July 2024",
     tags: ["alps", "sunrise", "switzerland"],
     thumb: "/images/thumb/boots.jpg",
-    full: "/images/full/gal-3.jpg",
+    full: "/images/thumb/boots.jpg",
   },
   {
     id: "4",
@@ -40,7 +40,7 @@ export const hikingImages: HikingImage[] = [
     date: "June 2024",
     tags: ["ridge", "rockies", "trail"],
     thumb: "/images/thumb/mountain.jpg",
-    full: "/images/full/gal-4.jpg",
+    full: "/images/thumb/mountain.jpg",
   },
   {
     id: "5",
@@ -50,7 +50,7 @@ export const hikingImages: HikingImage[] = [
     date: "August 2024",
     tags: ["lake", "glacier", "canada"],
     thumb: "/images/thumb/mountaineering.jpg",
-    full: "/images/full/gal-5.jpg",
+    full: "/images/thumb/mountaineering.jpg",
   },
   {
     id: "6",
@@ -60,7 +60,7 @@ export const hikingImages: HikingImage[] = [
     date: "April 2024",
     tags: ["desert", "dunes", "namibia"],
     thumb: "/images/thumb/mountains2.jpg",
-    full: "/images/full/gal-6.jpg",
+    full: "/images/thumb/mountains2.jpg",
   },
   {
     id: "7",
@@ -70,7 +70,7 @@ export const hikingImages: HikingImage[] = [
     date: "September 2024",
     tags: ["forest", "japan", "moss"],
     thumb: "/images/thumb/pamir.webp",
-    full: "/images/full/gal-7.jpg",
+    full: "/images/thumb/pamir.webp",
   },
   {
     id: "8",
@@ -80,7 +80,7 @@ export const hikingImages: HikingImage[] = [
     date: "July 2024",
     tags: ["lake", "reflection", "norway"],
     thumb: "/images/thumb/path.jpg",
-    full: "/images/full/gal-8.jpg",
+    full: "/images/thumb/path.jpg",
   },
   {
     id: "9",
@@ -90,7 +90,7 @@ export const hikingImages: HikingImage[] = [
     date: "October 2024",
     tags: ["canyon", "sunset", "arizona"],
     thumb: "/images/thumb/water.jpg",
-    full: "/images/full/gal-9.jpg",
+    full: "/images/thumb/water.jpg",
   },
   {
     id: "10",
@@ -100,7 +100,7 @@ export const hikingImages: HikingImage[] = [
     date: "November 2024",
     tags: ["coast", "ocean", "california"],
     thumb: "/images/thumb/children.jpg",
-    full: "/images/full/gal-10.jpg",
+    full: "/images/thumb/children.jpg",
   },
   {
     id: "11",
@@ -110,7 +110,7 @@ export const hikingImages: HikingImage[] = [
     date: "February 2024",
     tags: ["volcano", "iceland", "geothermal"],
     thumb: "/images/thumb/adventure.webp",
-    full: "/images/full/gal-11.jpg",
+    full: "/images/thumb/adventure.webp",
   },
   {
     id: "12",
@@ -120,7 +120,7 @@ export const hikingImages: HikingImage[] = [
     date: "July 2024",
     tags: ["wildflowers", "meadow", "italy"],
     thumb: "/images/thumb/adventure.webp",
-    full: "/images/full/gal-12.jpg",
+    full: "/images/thumb/adventure.webp",
   },
   {
     id: "13",
@@ -130,7 +130,7 @@ export const hikingImages: HikingImage[] = [
     date: "December 2024",
     tags: ["sunset", "volcano", "hawaii"],
     thumb: "/images/thumb/adventure.webp",
-    full: "/images/full/gal-13.jpg",
+    full: "/images/thumb/adventure.webp",
   },
   {
     id: "14",
@@ -140,6 +140,6 @@ export const hikingImages: HikingImage[] = [
     date: "October 2024",
     tags: ["mist", "valley", "scotland"],
     thumb: "/images/thumb/adventure.webp",
-    full: "/images/full/gal-14.jpg",
+    full: "/images/thumb/adventure.webp",
   },
 ];
