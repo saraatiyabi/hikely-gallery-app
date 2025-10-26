@@ -8,4 +8,11 @@ export interface HikingImage {
   tags: string[];
   thumb: string;
   full: string;
+  likes?: number;
+  downloads?: number;
+  author?: {
+    username: string;
+    avatar?: string;
+  };
+  resolution?: string;
 }
